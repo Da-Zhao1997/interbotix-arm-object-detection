@@ -1,7 +1,9 @@
 # interbotix-arm-object-detection
 ![banner](images/banner.png)
 
-## Purpose
+# Purpose
+![banner](images/exp.png)
+The robot arm can detect the position of the cubes and pick them. After picking the cube, the arm moves above the corresponding rubbish bin.
 
 # How to use
 1. Download and build the source code
